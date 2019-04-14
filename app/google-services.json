@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662179668681",
+    "firebase_url": "https://week12lab.firebaseio.com",
+    "project_id": "week12lab",
+    "storage_bucket": "week12lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662179668681:android:571b518e14566d29",
+        "android_client_info": {
+          "package_name": "edu.student.week12lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662179668681-snffq8oto1fmm59gi2sq60gcafaomd7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.student.week12lab",
+            "certificate_hash": "1cb32673871d373484679dc30524f0707464c2e2"
+          }
+        },
+        {
+          "client_id": "662179668681-fres2nl29a6o526jvv820rdksf5hldq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpu2enTnP7cYmY-KyV9uqtWv-HfueM5kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662179668681-fres2nl29a6o526jvv820rdksf5hldq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
